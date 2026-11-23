@@ -1,0 +1,88 @@
+import { GalleryItem } from "@/types";
+
+export const galleryItems: GalleryItem[] = [
+  {
+    id: "g1",
+    title: "Signature Butter Chicken & Fresh Garlic Naan",
+    category: "dishes",
+    image: "/images/dishes/dish_04.png",
+    aspect: "landscape",
+  },
+  {
+    id: "g2",
+    title: "Authentic Thai Pad Thai & Som Tum Salad",
+    category: "dishes",
+    image: "/images/authentic/alibaba_02.png",
+    aspect: "portrait",
+  },
+  {
+    id: "g3",
+    title: "Clay Oven Charred Tandoori Chicken Feast",
+    category: "dishes",
+    image: "/images/dishes/dish_03.png",
+    aspect: "landscape",
+  },
+  {
+    id: "g4",
+    title: "Slow-Simmered Dal Makhani & Roti Basket",
+    category: "dishes",
+    image: "/images/dishes/dish_05.png",
+    aspect: "square",
+  },
+  {
+    id: "g5",
+    title: "Chilled Handcrafted Mango Lassi & Refreshments",
+    category: "drinks",
+    image: "/images/dishes/dish_06.png",
+    aspect: "portrait",
+  },
+  {
+    id: "g6",
+    title: "Kashmiri Lamb Rogan Josh Simmered with Whole Spices",
+    category: "dishes",
+    image: "/images/dishes/dish_07.png",
+    aspect: "landscape",
+  },
+  {
+    id: "g7",
+    title: "Fragrant Saffron Lamb Dum Biryani in Clay Handi",
+    category: "dishes",
+    image: "/images/dishes/dish_08.png",
+    aspect: "landscape",
+  },
+  {
+    id: "g8",
+    title: "Golden Crispy Vegetable Samosas with Fresh Mint Chutney",
+    category: "dishes",
+    image: "/images/dishes/dish_09.png",
+    aspect: "square",
+  },
+  {
+    id: "g9",
+    title: "Sizzling Clay Oven Tandoori Mixed Grill Platter",
+    category: "dishes",
+    image: "/images/dishes/dish_10.png",
+    aspect: "landscape",
+  },
+  {
+    id: "g10",
+    title: "Fresh Andaman Seafood Curries & Coconut Rice",
+    category: "dishes",
+    image: "/images/dishes/dish_11.png",
+    aspect: "portrait",
+  },
+  {
+    id: "g11",
+    title: "Ao Nang Beach Road Evening Dining Atmosphere",
+    category: "atmosphere",
+    image: "/images/authentic/alibaba_08.png",
+    aspect: "landscape",
+  },
+  {
+    id: "g12",
+    title: "Warm Dining Room Hospitality & Family Gatherings",
+    category: "atmosphere",
+    image: "/images/authentic/alibaba_01.png",
+    aspect: "landscape",
+  },
+];

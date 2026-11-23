@@ -1,0 +1,30 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Build artifacts
+tsconfig.tsbuildinfo
+*.log
+
+# Environment variables
+.env
+.env*.local
+
+# Vercel
+.vercel
+
+# Testing & Tools
+.playwright-mcp/
+tmp_inspect/
+_reference/
+*.py
+scratch/
+
+# OS Files
+.DS_Store
+Thumbs.db
